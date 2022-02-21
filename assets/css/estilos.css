@@ -29,6 +29,10 @@ body {
 
 /* Contacto */
 
+#Contacto{
+  background-color: lightblue;
+}
+
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
